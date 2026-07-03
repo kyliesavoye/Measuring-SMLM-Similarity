@@ -101,4 +101,6 @@ This work was supported by the EPSRC Centre for Doctoral Training in Topological
 
 ## License
 
-See [LICENSE](LICENSE).
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
+Note: The MIT License applies to the code in this repository. Experimental data in `Experimental Data/` originate from previously published work and may be subject to separate data-use, attribution, or redistribution terms from the original source.
